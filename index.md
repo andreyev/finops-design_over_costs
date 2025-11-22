@@ -21,6 +21,7 @@ footer: https://github.com/andreyev/finops-design_over_costs
 ![bg left:40% 80%](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/andreyev/finops-design_over_costs)
 
 _Avisos_ :
+* Obrigado!
 * URL do repositório (quase) sempre no rodapé.
 * Esta apresentação surgiu de conversas, provocações e estudos na comunidade e está disponível para ela (CC-BY-4.0).
 * As opiniões expressas aqui são de responsabilidade exclusiva do autor e não refletem as opiniões ou posições de quaisquer entidades com as quais o autor esteja associado.
